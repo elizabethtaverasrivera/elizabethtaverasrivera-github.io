@@ -1,0 +1,69 @@
+/* the section that follows is the top of the page */
+div {
+    display: inline-block;
+    margin:0;
+}
+    
+    img {
+    width: 100%;
+}
+
+.segments  {
+    width: 100%;
+    font-size:18px;
+    clear:both;
+}
+
+#foreign {
+    color: darkgreen;
+    font-family: serif;
+    font-size: 28;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+li a{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+a: hover {
+    background-color: darkorchid;
+    }
+a:visited {
+    color:darkgray;
+}
+.active {
+    background-color: darksalmon;
+}
+
+p {
+        text-align: left;
+        color:darkblue;
+        font-size: 20px;
+        text-align: left;
+        padding: 0;
+}
+
+.spring {
+    float: left;
+    max-width: 50%;
+    background-color: darkgrey 
+}
+.regions {
+    list-style-position:  inside;
+    padding-bottom: 20px;
+    margin-right: 40px;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.regions li {display: inline-block;}
+
+.clear {clear:both;}
