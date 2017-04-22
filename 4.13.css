@@ -1,0 +1,191 @@
+html, body {
+
+    margin: 0;
+    background-color: rgb(255, 230, 230);
+    font-family: fantasy, arial, sans-serif;
+}
+ /* header */
+#header{
+    text-align: center;
+    background-image: url(butterfly-1127666_960_720.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 400px;
+    padding-top: 30px;
+}
+
+#header p {
+    font-size: 30px;
+     margin-top: 0;
+    color: rgb(255, 0, 127);
+    margin-left: 13px;
+}
+
+.header {
+    background-image: url(region-map-national-security-safety-department-of-energy-how-climate-change-regionalvulnerabilites.jpg);
+    background-repeat: no-repeat;
+    padding-top: 30px;
+}
+ /* subpages */
+#a {
+    height: 300px;
+    
+}
+#b {
+    height: 300px;
+    width: 100%;
+}
+
+#c {
+    height: 300px;
+    width: 100%;
+}
+
+#d {
+    height: 300px;
+    width: 100%;
+}
+
+#e {
+    height: 300px;
+    width: 100%;
+}
+#f {
+    height: 300px;
+    width: 100%;
+}
+#pages {
+    text-align: center;
+    height: 100%;
+    width: 100%;
+    color: rgb(255, 230, 230);
+    padding: 30px;
+}
+ /* images */
+.spring {
+    width: 50%;
+    height: 50%;
+}
+
+p {
+    font
+    padding-left: 10px;
+   
+}
+ /* headings */
+h2 {
+    color: rgb(51, 0, 38);
+    margin: 0;
+    text-align: center;
+}
+h3 {
+    margin: 0;
+    text-align: center;
+    color: rgb(102, 255, 255);
+}
+.mL {
+    float: left;
+    width: 50%;
+    height: 100;
+}
+
+.mR {
+   float: right;
+    width: 50%; 
+    height: 100%;
+    img: center;
+
+} 
+.clear {
+    clear: both;
+}
+ /* navigation */
+#navigation {
+    clear: both;
+    width: 100%;
+    display: inline-block;
+}
+
+#navigation ul {
+    list-style-type: none;
+    padding-left: 10px;
+}
+
+li a{
+    display: inline-block;
+    color: rgb(102, 0, 102);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+a: hover {
+    background-color: darkorchid;
+    }
+a:visited {
+    color:darkgray;
+}
+.active {
+    background-color: darksalmon;
+}
+
+#footer {
+    clear: both;
+    padding: 10px;
+    text-align: right;
+    max-width: 100%;
+}
+ul {
+    margin-left: 10px;
+}
+
+li {
+    margin-left: 20px;
+}
+.types {
+    background-image: url(lathyrus-1475672_1920.jpg);
+    background-repeat: no-repeat;
+    color: rgb(102, 255, 255);
+    padding-top: 20px;
+}
+.types h4 {
+    margin-left: 13px;
+}
+
+.typew {
+    background-image: url(stinging-nettle-green-pus-nettle-nature-40742.jpeg);
+    color: rgb(204, 51, 153);
+    padding-top: 20px;
+}
+.typew img {
+   height: 60%;
+    width: 100%; 
+}
+
+.typew h4 {
+    margin-left: 13px;
+    color: rgb(255, 102, 0);
+}
+.typen {
+    background-image: url(wisteria-785368_960_720.jpg);
+    color: rgb(102, 255, 255);
+    padding-top: 20px;
+}
+
+.typen h4 {
+    margin-left: 13px;
+}
+
+.typee {
+    background-image: url(willow-2072286_1920.jpg);
+    background-repeat: no-repeat;
+    color: rgb(102, 255, 255);
+    padding-top: 20px;
+}
+
+.typee h4 {
+    margin-left: 13px;
+}
+
+.butterflies {
+    color: rgb(0, 0, 0);
+}

@@ -1,0 +1,20 @@
+#nature {
+        float: right;
+        margin: 0;
+            padding-top: none; 
+    width:100;
+}
+
+#practice {
+    
+    background-color: aquamarine;
+}
+
+#second {
+    clear:both;
+}
+#background {
+    background-image: url(https://media.giphy.com/media/pkVHZKcnzzkmA/giphy.gif);
+        height: 100px;
+    color:darkviolet;
+}
